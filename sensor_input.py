@@ -1,4 +1,5 @@
-#a##Only the first 2 printing
+#The program involves connectig a potentiometer across the mikrobus port on the ek1, and using the analog input, 3.3V and gnd to get the sensor readings
+
 
 from mpio import GPIO
 import sys
